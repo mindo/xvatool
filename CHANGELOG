@@ -1,3 +1,7 @@
+v1.1.1
+
+- 2013-06-04; Armindo Silva; add libcrypto to linker
+
 v1.1
 
 - 2009-11-19; Erik Lax; Fixed some bugs! (non-criticial)
