@@ -1,3 +1,6 @@
+
+The original developer has imported his code (and made some change since) to github, you can find it here: https://github.com/eriklax/xva-img
+
 xvatool
 =======
 imported from: http://datahack.se/datastore/xvatool/ (v1.1)
